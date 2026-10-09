@@ -2,12 +2,23 @@
 
 Développeur full stack, je construis des applications web avec Python (FastAPI) et TypeScript (Next.js).
 
+Portfolio : [teddyrhim.github.io/portofolie](https://teddyrhim.github.io/portofolie/)
+
 ## Projets
 
 ### [CTA Campaign Manager](https://github.com/TeddyRhim/cta-campaign-manager)
 
 Application de gestion de campagnes, de contacts et d'imports CSV.
 API REST FastAPI et PostgreSQL, interface Next.js, authentification JWT avec rôles, migrations Alembic, tests pytest et intégration continue.
+
+### [Assistant candidatures](https://github.com/TeddyRhim/assistant-candidature)
+
+Application locale de recherche d'emploi : collecte d'offres, comparaison avec un profil, CV ciblé et lettre, suivi des candidatures.
+Python, Streamlit, SQLite, 273 tests et intégration continue.
+
+### [ChatbotIA](https://github.com/TeddyRhim/ChatbotIA)
+
+Chatbot en français avec base de connaissances, en cours de migration vers un RAG 100 % local (Ollama et ChromaDB).
 
 ## Technologies
 
