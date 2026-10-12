@@ -18,7 +18,8 @@ Python, Streamlit, SQLite, 273 tests et intégration continue.
 
 ### [ChatbotIA](https://github.com/TeddyRhim/ChatbotIA)
 
-Chatbot en français avec base de connaissances, en cours de migration vers un RAG 100 % local (Ollama et ChromaDB).
+Chatbot en français qui répond à partir d'une base de fiches, cite ses sources et dit « je ne sais pas » quand il n'a rien de pertinent.
+Recherche hybride, évaluation reproductible, tout en local. Python, Ollama, ChromaDB, Streamlit, 54 tests et intégration continue.
 
 ## Technologies
 
